@@ -1,0 +1,15 @@
+D:\programacao\testes\Job Rotation - São Paulo\Job-Rotation-S-o-Paulo\codigo1\codigo1\bin\Debug\net6.0\codigo1.exe
+D:\programacao\testes\Job Rotation - São Paulo\Job-Rotation-S-o-Paulo\codigo1\codigo1\bin\Debug\net6.0\codigo1.deps.json
+D:\programacao\testes\Job Rotation - São Paulo\Job-Rotation-S-o-Paulo\codigo1\codigo1\bin\Debug\net6.0\codigo1.runtimeconfig.json
+D:\programacao\testes\Job Rotation - São Paulo\Job-Rotation-S-o-Paulo\codigo1\codigo1\bin\Debug\net6.0\codigo1.dll
+D:\programacao\testes\Job Rotation - São Paulo\Job-Rotation-S-o-Paulo\codigo1\codigo1\bin\Debug\net6.0\codigo1.pdb
+D:\programacao\testes\Job Rotation - São Paulo\Job-Rotation-S-o-Paulo\codigo1\codigo1\obj\Debug\net6.0\codigo1.csproj.AssemblyReference.cache
+D:\programacao\testes\Job Rotation - São Paulo\Job-Rotation-S-o-Paulo\codigo1\codigo1\obj\Debug\net6.0\codigo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacao\testes\Job Rotation - São Paulo\Job-Rotation-S-o-Paulo\codigo1\codigo1\obj\Debug\net6.0\codigo1.AssemblyInfoInputs.cache
+D:\programacao\testes\Job Rotation - São Paulo\Job-Rotation-S-o-Paulo\codigo1\codigo1\obj\Debug\net6.0\codigo1.AssemblyInfo.cs
+D:\programacao\testes\Job Rotation - São Paulo\Job-Rotation-S-o-Paulo\codigo1\codigo1\obj\Debug\net6.0\codigo1.csproj.CoreCompileInputs.cache
+D:\programacao\testes\Job Rotation - São Paulo\Job-Rotation-S-o-Paulo\codigo1\codigo1\obj\Debug\net6.0\codigo1.dll
+D:\programacao\testes\Job Rotation - São Paulo\Job-Rotation-S-o-Paulo\codigo1\codigo1\obj\Debug\net6.0\refint\codigo1.dll
+D:\programacao\testes\Job Rotation - São Paulo\Job-Rotation-S-o-Paulo\codigo1\codigo1\obj\Debug\net6.0\codigo1.pdb
+D:\programacao\testes\Job Rotation - São Paulo\Job-Rotation-S-o-Paulo\codigo1\codigo1\obj\Debug\net6.0\codigo1.genruntimeconfig.cache
+D:\programacao\testes\Job Rotation - São Paulo\Job-Rotation-S-o-Paulo\codigo1\codigo1\obj\Debug\net6.0\ref\codigo1.dll
