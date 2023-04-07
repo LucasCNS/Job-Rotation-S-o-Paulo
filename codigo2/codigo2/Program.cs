@@ -1,17 +1,29 @@
 ﻿
+using System.Text;
+
+
 namespace codigo2
 {
 	class Program
 	{
+
 		static void Main(string[] args)
 		{
+			Console.OutputEncoding = Encoding.GetEncoding("iso-8859-1");
+
 			Console.WriteLine("Desafio 2\n");
 			CalculaFibonacci();
+
 			Console.WriteLine("\nDesafio 4");
 			PercentualEstados();
+
+			Console.WriteLine("Desafio 5\n");
+			InverteString();
+			Console.ReadKey();
 		}
 
-		static void CalculaFibonacci()
+		//Desafio 2
+		static void CalculaFibonacci() 
 		{
 			Console.Write("Digite um número para a sequência de Fibonacci: ");
 			int n = int.Parse(Console.ReadLine());
@@ -46,6 +58,7 @@ namespace codigo2
 
 		}
 
+		//Desafio 4
 		static void PercentualEstados()
 		{
 			{
@@ -66,6 +79,21 @@ namespace codigo2
 				Console.WriteLine("ES: " + (es / total * 100).ToString("F2") + "%");
 				Console.WriteLine("Outros: " + (outros / total * 100).ToString("F2") + "%\n");
 			}
+		}
+
+		static void InverteString()
+		{
+			Console.WriteLine("Digite o que quer se seja invertido:");
+			string digitado = Console.ReadLine();
+			
+			StringBuilder stringBuilder= new StringBuilder();
+
+			for (int i = digitado.Length - 1; i >= 0; i--)
+			{
+				stringBuilder.Append(digitado[i]);
+			}
+
+			Console.WriteLine(stringBuilder.ToString());
 		}
 	}
 }
